@@ -1,0 +1,63 @@
+Sudo is Copyright (c) 2009-2019, Jens Kutilek (http://www.kutilek.de/).
+
+Version 0.040
+- Update variable font from design source
+- Rename variable font family name to "Sudo Variable", to avoid confusion with the static fonts
+- Add variable web font in WOFF2 format
+- Export fonts with Glyphs build 1264
+
+Version 0.039
+- Add Braille 6 dot glyphs
+- Add color versions for light, medium and dark shade characters
+
+Version 0.038
+- Bugfix for font names in Italic and Bold
+
+Version 0.037
+- Finish numbers in Thin masters
+- Redesign acute and grave accents, dieresis, macron
+- Improvements in Thin masters
+- Bugfixes and other improvements
+
+Version 0.036
+- Update variable font and webfonts
+
+Version 0.035
+- Add some old-school pixel smilies
+- Fixes
+
+Version 0.033-dev5
+- Add Italic data in Glyphs file
+- Improve display of Italic on macOS
+
+Version 0.033-dev4
+- Raise hyphen and endash, emdash, horizontalbar to better align with mathematical symbols
+
+Version 0.033-dev3
+- Export with Glyphs build 1128, should fix most of the hinting problems
+- Include Variable Font for upright styles
+
+Version 0.033-dev2
+- Resolve some hinting problems
+- Make all glyphs actually monospaced
+
+Version 0.033-dev
+
+- Support Powerline
+- Redesign some glyphs
+- Add Thin master and more in-between weights (in progress)
+- Use dotted zero as default
+- Add proportionally spaced Sudo Text family (in progress)
+- Move sources to GlyphsApp
+
+2016-05-29, Version 0.033
+
+- Mark fonts as monospaced (was there a reason why I didn’t before?)
+- Update glyph set in Regular and Regular Italic with icon set
+- Update Italic to match Regular
+- Copy hinting from Bold to Bold Italic
+- Include web fonts (WOFF)
+
+2013-11-13, Version 0.032
+
+- Initial public release
